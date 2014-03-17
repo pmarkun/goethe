@@ -15,11 +15,19 @@ Template: twentyfourteen
     }
 }
 
-
 .site-header, .site-footer {
     background-color: #CCC;
 }
 
+.primary-navigation {
+    margin:0 auto;
+    float:none;
+    text-align: center;
+}
+
+.search-toggle, .site-title, .search-container {
+    display:none;
+}
 #secondary {
     color:#000;
     background-color:#FFF;
