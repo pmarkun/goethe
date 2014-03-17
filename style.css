@@ -5,3 +5,23 @@ Template: twentyfourteen
 @import url("../twentyfourteen/style.css");
 /* Theme customization starts here */
 
+/* Changing sidebar size to 240px */
+@media screen and (min-width: 1080px) {
+        .site:before {
+        width: 310px;
+    }
+        #secondary {
+        width: 270px;
+    }
+}
+
+
+.site-header, .site-footer {
+    background-color: #CCC;
+}
+
+#secondary {
+    color:#000;
+    background-color:#FFF;
+    border-right:1px solid #24890d;
+    }
