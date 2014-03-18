@@ -31,11 +31,15 @@ Template: twentyfourteen
 
 /* Changing sidebar size to 240px */
 @media screen and (min-width: 1080px) {
-        .site:before {
-        width: 310px;
-    }
-        #secondary {
+    .site:before {
         width: 270px;
+    }
+    #secondary {
+        width: 270px;
+    }
+
+    .site-content {
+        margin-left:88px;        
     }
 }
 
@@ -44,6 +48,7 @@ body {
     background-color: #FFF;
     color: #94bc3f;
 }
+
 .site-header, .site-footer {
     background-color: #CCC;
 }
