@@ -71,9 +71,9 @@ body {
     color: #6d6d6d;
 }
 
-.site-navigation a:hover {
-    color: #6d6d6d;
-    font-weight: bold;
+.site-navigation ul li a:hover, .site-navigation .current-menu-item > a {
+    color: #666;
+    font-weight: 900;
 }
 
 .site-description, .search-toggle, .site-title, .search-container {
