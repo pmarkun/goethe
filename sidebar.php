@@ -26,15 +26,15 @@
 
 	<div class="contato">
 		<div class="contato-telefone">
-			<div class="contato-texto"><b>telefone</b><br>+55-11-999-999-999</div>
+			<div class="contato-texto"><b>telefone</b><br>+55 11 3296-7000</div>
 			<div class="contato-icone"></div>
 		</div>
 		<div class="contato-email">
-			<div class="contato-texto"><b>email</b><br>desconferencia@email.com</div>
+			<div class="contato-texto"><b>email</b><br>contato@saopaulo.goethe.org</div>
 			<div class="contato-icone"></div>
 		</div>
 		<div class="contato-local">
-			<div class="contato-texto"><b>local</b><br>rua endereco, numero</div>
+			<div class="contato-texto"><b>local</b><br>Rua Lisboa, 974 - Pinheiros, SP</div>
 			<div class="contato-icone"></div>
 		</div>
 

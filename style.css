@@ -199,3 +199,48 @@ body {
     width:100px;
     height:42px;
 }
+
+/* Sidebar */
+
+.contato {
+    float: right;
+}
+
+.contato-texto {
+    font-family: 'Goethe FF Clan Regular';
+    font-size: 12pt;
+    color: #94bc3f;
+    float: left;
+    height:61px;
+    padding-top: 10px;
+}
+
+.contato-telefone, .contato-email, .contato-local {
+    clear:both;
+}
+.contato-telefone .contato-icone {
+    float: right;
+    background-image:url('img/telefone.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width:62px;
+    height:61px;
+}
+
+.contato-email .contato-icone {
+    float: right;
+    width:62px;
+    height:61px;
+    background-image:url('img/email.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.contato-local .contato-icone {
+    float: right;
+    width:62px;
+    height:61px;
+    background-image:url('img/local.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
