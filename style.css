@@ -208,11 +208,13 @@ body {
 
 .contato-texto {
     font-family: 'Goethe FF Clan Regular';
-    font-size: 12pt;
+    font-size: 9pt;
     color: #94bc3f;
-    float: left;
+    float: right;
     height:61px;
-    padding-top: 10px;
+    padding-top: 15px;
+    padding-right:5px;
+    text-align: right;
 }
 
 .contato-telefone, .contato-email, .contato-local {
