@@ -175,3 +175,25 @@ body {
 .entry-snippet {
     float:left;
 }
+
+/* Footer */
+.site-footer {
+    background-image:url('img/menu-background.png');
+    height:44px;
+    color:#000;
+}
+
+.site-footer a {
+    color: #6d6d6d;
+}
+
+.site-footer .footer-logo {
+    background-image: url("img/logo.png");
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin-top:-10px;
+    text-indent: -9999px;
+    width:100px;
+    height:42px;
+}
