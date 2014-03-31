@@ -57,6 +57,9 @@ body {
     margin-top:88px !important;
 }
 
+.header-main {
+    background-image:url('img/menu-background.png');
+}
 .primary-navigation {
     margin:0 auto;
     float:none;
@@ -85,6 +88,17 @@ body {
     background-color:#FFF;
     border-right:1px solid #94bc3f
     }
+
+/* Custom Menu */
+
+.menu-facebook a {
+    background-image:url('img/menu-facebook.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width:11px;
+    height:22px;
+    text-indent: -9999px;
+}
 
 /* Posts */
 
