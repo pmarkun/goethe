@@ -75,8 +75,7 @@ body {
 }
 
 .site-navigation ul li a:hover, .site-navigation .current-menu-item > a {
-    color: #666;
-    font-weight: 900;
+    color: #333;
 }
 
 .site-description, .search-toggle, .site-title, .search-container {
@@ -143,6 +142,9 @@ body {
 
 /* Posts */
 
+.entry-title {
+    font-family: 'Goethe FF Clan Bold';
+}
 .entry-meta a, .entry-title a {
     color:#95bb41;
     text-decoration: none;
