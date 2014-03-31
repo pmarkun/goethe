@@ -24,7 +24,7 @@
 	<?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 	<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
 
-	<?php if (is_home()) { ?>
+	<?php if (is_front_page()) { ?>
 	<div class="contato">
 		<div class="contato-telefone">
 			<div class="contato-icone"></div>
