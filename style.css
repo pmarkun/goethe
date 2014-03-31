@@ -96,9 +96,29 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     width:11px;
-    height:22px;
+    height:44px;
     text-indent: -9999px;
 }
+
+.menu-twitter a {
+    background-image:url('img/menu-twitter.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    width:11px;
+    height:44px;
+    text-indent: -9999px;
+
+}
+
+.menu-gplus a {
+    background-image:url('img/menu-gplus.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    width:11px;
+    height:44px;
+    text-indent: -9999px;
+}
+
 
 /* Posts */
 
