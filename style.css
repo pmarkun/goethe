@@ -131,6 +131,15 @@ body {
 
 }
 
+/* Sidebar */
+
+.site:before {
+    background-color: #FFF;
+}
+
+.widget, .widget a, .widget-title {
+    color: #94bc3f;
+}
 
 /* Posts */
 
