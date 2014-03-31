@@ -119,6 +119,18 @@ body {
     text-indent: -9999px;
 }
 
+/* Ribbon */
+
+.primary-navigation:after {
+    position:absolute;
+    width:318px;
+    height:320px;
+    right:0px;
+    top:22px;
+    background-image:url('img/ribbon.png');
+
+}
+
 
 /* Posts */
 
