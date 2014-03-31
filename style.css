@@ -75,8 +75,7 @@ body {
 }
 
 .site-navigation ul li a:hover, .site-navigation .current-menu-item > a {
-    color: #666;
-    font-weight: 900;
+    color: #333;
 }
 
 .site-description, .search-toggle, .site-title, .search-container {
@@ -131,9 +130,21 @@ body {
 
 }
 
+/* Sidebar */
+
+.site:before {
+    background-color: #FFF;
+}
+
+.widget, .widget a, .widget-title {
+    color: #94bc3f;
+}
 
 /* Posts */
 
+.entry-title {
+    font-family: 'Goethe FF Clan Bold';
+}
 .entry-meta a, .entry-title a {
     color:#95bb41;
     text-decoration: none;
@@ -165,4 +176,26 @@ body {
 
 .entry-snippet {
     float:left;
+}
+
+/* Footer */
+.site-footer {
+    background-image:url('img/menu-background.png');
+    height:44px;
+    color:#000;
+}
+
+.site-footer a {
+    color: #6d6d6d;
+}
+
+.site-footer .footer-logo {
+    background-image: url("img/logo.png");
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin-top:-10px;
+    text-indent: -9999px;
+    width:100px;
+    height:42px;
 }
