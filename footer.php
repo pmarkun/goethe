@@ -17,9 +17,9 @@
 			<?php get_sidebar( 'footer' ); ?>
 
 			<div class="site-info">
-				<a href="#" class="footer-logo" style="float:left">goethe</a>
-				<a href="#" style="float:right;">&nbsp; contato</a>
-				<a href="#" style="float:right;">github </a>
+				<a href="http://www.goethe.de/saopaulo/" class="footer-logo" style="float:left">goethe</a>
+				<a href="mailto:cultura@saopaulo.goethe.org" style="float:right;">&nbsp; contato</a>
+				<a href="https://github.com/pmarkun/goethe" style="float:right;">github </a>
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
