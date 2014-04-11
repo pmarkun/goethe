@@ -168,6 +168,19 @@ body {
     background-color: #95bb41;
 }
 
+.entry-boxdate .time:before {
+    content: "";
+    display: block;
+    width: 0; 
+    height: 0; 
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    border-right: 12px solid #95bb41; 
+    position: absolute;
+    top: 16px;
+    left: 18px;
+}
+
 .entry-boxdate .date {
     width:70px;
     height:60px;
