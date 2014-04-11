@@ -32,11 +32,11 @@
 		</div>
 		<div class="contato-email">
 			<div class="contato-icone"></div>
-			<div class="contato-texto"><b>email</b><br>contato@saopaulo.goethe.org</div>
+			<div class="contato-texto"><b>email</b><br>cultura@saopaulo.goethe.org</div>
 		</div>
 		<div class="contato-local">
 			<div class="contato-icone"></div>
-			<div class="contato-texto"><b>local</b><br>Rua Lisboa, 974 - Pinheiros, SP</div>
+			<div class="contato-texto"><b>local</b><br>Goethe-Institut<br>Rua Lisboa, 974 - Pinheiros, SP</div>
 		</div>
 
 		<div class="contato-mapa">
