@@ -3,6 +3,7 @@ Theme Name: Desconferencia Goethe
 Template: twentyfourteen
 */
 @import url("../twentyfourteen/style.css");
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
 /* Theme customization starts here */
 
 /* Font Goethe */
@@ -44,7 +45,7 @@ Template: twentyfourteen
 }
 
 body {
-    font-family: 'Goethe FF Clan Regular';
+    font-family: 'Roboto';
     background-color: #FFF;
     color: #94bc3f;
 }
@@ -143,7 +144,8 @@ body {
 /* Posts */
 
 .entry-title {
-    font-family: 'Goethe FF Clan Bold';
+    font-family: 'Roboto';
+    font-weight: 700;
 }
 .entry-meta a, .entry-title a {
     color:#95bb41;
@@ -220,7 +222,7 @@ body {
 }
 
 .contato-texto {
-    font-family: 'Goethe FF Clan Regular';
+    font-family: 'Roboto';
     font-size: 9pt;
     color: #94bc3f;
     float: right;
