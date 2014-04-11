@@ -120,7 +120,7 @@ body {
 
 /* Ribbon */
 
-.primary-navigation:after {
+.ribbon {
     position:absolute;
     width:318px;
     height:320px;
