@@ -126,7 +126,7 @@ body {
     position:absolute;
     width:318px;
     height:320px;
-    right:0px;
+    right:-15px;
     top:22px;
     background-image:url('img/ribbon.png');
 
