@@ -28,6 +28,8 @@
 	<script src="<?php echo get_template_directory_uri(); ?>/js/html5.js"></script>
 	<![endif]-->
 	<?php wp_head(); ?>
+	<script src="//rawgithub.com/noelboss/featherlight/master/src/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+	<link href="//rawgithub.com/noelboss/featherlight/master/src/featherlight.min.css" type="text/css" rel="stylesheet" title="Featherlight Styles" />
 </head>
 
 <body <?php body_class(); ?>>
