@@ -1,3 +1,4 @@
+
 /*
 Theme Name: Desconferencia Goethe
 Template: twentyfourteen
@@ -33,10 +34,10 @@ Template: twentyfourteen
 /* Changing sidebar size to 240px */
 @media screen and (min-width: 1080px) {
     .site:before {
-        width: 270px;
+        width: 320px;
     }
     #secondary {
-        width: 270px;
+        width: 320px;
     }
 
     .site-content {
