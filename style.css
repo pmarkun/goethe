@@ -261,3 +261,13 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.page-id-132 .entry-title {
+    background: transparent url('img/cultura-e-publico.jpg') no-repeat center;
+    text-indent: -9000px;
+    width: 750px;
+    height: 289px;
+    margin-top: -100px;
+    margin-left: -125px;
+    background-size: 100%;
+}
