@@ -274,3 +274,8 @@ body {
     margin-left: -75px;
     background-size: 100%;
 }
+
+
+.featherlight {
+    z-index: 9999 !important;
+}
