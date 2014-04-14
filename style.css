@@ -263,6 +263,8 @@ body {
     background-repeat: no-repeat;
 }
 
+
+/* Hack */ 
 .page-id-6 .entry-title {
     background: transparent url('img/cultura-e-publico.jpg') no-repeat center;
     text-indent: -9000px;
