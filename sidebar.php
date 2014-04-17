@@ -25,6 +25,8 @@
 	<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
 
 	<?php if (is_front_page()) { ?>
+
+	<?php dynamic_sidebar( 'sidebar-1' ); ?>
 	<div class="contato">
 		<div class="contato-telefone">
 			<div class="contato-icone"></div>
