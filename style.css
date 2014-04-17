@@ -51,6 +51,14 @@ body {
     color: #000;
 }
 
+input[type="submit"] {
+    background-color: #94bc3f;
+}
+
+input[type="submit"]:hover {
+    background-color: #41a62a;
+}
+
 .site-header, .site-footer {
     background-color: #CCC;
 }
@@ -279,3 +287,4 @@ body {
 .featherlight {
     z-index: 9999 !important;
 }
+
