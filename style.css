@@ -48,7 +48,11 @@ Template: twentyfourteen
 body {
     font-family: 'Roboto';
     background-color: #FFF;
-    color: #000;
+    color: #94bc3f;
+}
+
+.entry-content {
+    color:#6d6d6d;
 }
 
 input[type="submit"] {
