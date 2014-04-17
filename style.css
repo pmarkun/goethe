@@ -140,6 +140,10 @@ input[type="submit"]:hover {
 
 }
 
+.home .ribbon {
+    display:none;
+}
+
 /* Sidebar */
 
 .site:before {
