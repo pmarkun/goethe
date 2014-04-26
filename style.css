@@ -296,3 +296,15 @@ input[type="submit"]:hover {
     z-index: 9999 !important;
 }
 
+/* Ao vivo */
+
+.aovivo {
+    width:600px;
+}
+.wid {
+    float:left;
+    margin:5px;
+    border:1px solid #24890D;
+    width:280px;
+    height:400px;
+}
